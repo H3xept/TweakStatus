@@ -11,7 +11,8 @@ WARNING - You will have to manually install one of the dependencies, since auto-
 Run <code>sudo ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future gem install nokogiri </code>
 
 If you don't have `bundler` you'll also have to run `sudo gem install bundler`.
-Finally run `bundle install` in TweakStatus path.
+
+Finally execute `bundle install` in TweakStatus path.
 
 #Usage 
 Simply run it with `ruby TweakStats.rb`.
