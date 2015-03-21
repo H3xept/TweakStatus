@@ -5,7 +5,7 @@ This utility will send an user notification everytime one of your tweaks dowload
 ![alt tag](https://raw.github.com/H3xept/TweakStatus/master/img/notification.png)
 
 #Installation
-###Mac OSx
+###Mac OSX
 WARNING - You will have to manually install one of the dependencies, since auto-installing it creates issues.
 
 Run <code>sudo ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future gem install nokogiri </code>
