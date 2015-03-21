@@ -30,7 +30,7 @@ end
 def checkValue(url,number)
 	if $URL[url] < number-10
 		tweakName = url.split("=")[1].split("&")[0]
-		TerminalNotifier.notify('%s'%[tweakName], :title => 'New Stat %s'%[number],:open => url)
+		TerminalNotifier.notify('%s'%[tweakName], :title => 'New Stat - %s Downloads'%[number])
 		$URL[url] = number
 		puts "[🍺 ]Update for #{tweakName}! - #{number}"
 		return true
