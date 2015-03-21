@@ -1,6 +1,7 @@
 # TweakStatus
 Simple status checker script for your mobile substrate tweaks hosted on BigBoss repo.
 This utility will send an user notification everytime your tweak dowload number increases by 10 (you can obviously change that number in the code).
+
 ![alt tag](https://raw.github.com/H3xept/TweakStatus/master/img/notification.png)
 
 #Installation
