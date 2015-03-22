@@ -20,3 +20,5 @@ Simply run it with `ruby TweakStats.rb`.
 #More
 This project is mostly a test, it will never be a big project, nor i will update it frequently.
 I'm just learning Ruby and this is part of my training.
+##Even more info!
+In the `url.txt` file i have added `OopsLock` my first tweak and `Clap` a tweak by a friend of mine, be sure to check that out!
